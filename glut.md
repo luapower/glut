@@ -1,7 +1,6 @@
 ---
 project:     glut
 tagline:     freeglut Lua+ffi binding
-category:    3D Graphics
 ---
 
 ## `local glut = require'glut'`
