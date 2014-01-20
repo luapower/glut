@@ -1,9 +1,11 @@
 ---
-project:     glut
-tagline:     freeglut Lua+ffi binding
+project: glut
+tagline: OpenGL GLUT
 ---
 
 ## `local glut = require'glut'`
+
+A binding of freeglut.
 
 ## Documentation
 
