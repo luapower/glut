@@ -1,5 +1,4 @@
 ---
-project: glut
 tagline: OpenGL GLUT
 ---
 
